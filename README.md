@@ -7,56 +7,44 @@ A python3 script how calculates prime numbers super quickly
 
 Python3 or newer.
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
+## 🛠 Installation
+### Linux
 ```
-Give an example
+git clone https://github.com/JeSuisRusse/RusseIP.git
+cd RusseIP
+pip3 install -r requirements.txt
+python3 RusseIP.py
 ```
-
-### And coding style tests
-
-Explain what these tests test and why
-
+### Windows
 ```
-Give an example
+Download RusseIP.zip
+Extract RusseIP.zip
+Open a CMD in RusseIP-master\
+pip install -r requirements.txt
+python RusseIP.py
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+# 📡 RusseIP 
+* Convert an address to an ip
+* Convert an ip to a hostname
+* Perform a WHOIS on a hostname
+* Get all informations of an IP or a hostname(Lat/Lon, TimeZone, Organization, ISP, Country Code, Region, City, Country)
+* Tested on Windows and Linux with Python 3
+## 🛠 Installation
+### Linux
+```
+git clone https://github.com/JeSuisRusse/RusseIP.git
+cd RusseIP
+pip3 install -r requirements.txt
+python3 RusseIP.py
+```
+### Windows
+```
+Download RusseIP.zip
+Extract RusseIP.zip
+Open a CMD in RusseIP-master\
+pip install -r requirements.txt
+python RusseIP.py
+```
+# ✨ Other 
+* This project is free and Open Source so use it as you want 
