@@ -1,6 +1,6 @@
 # 📟 Primes Calculator
 A python3 script how calculates prime numbers super quickly
-* super optimized
+* Super optimized
 * Tested on Windows and Linux with Python 3
 
 ## Getting Started
