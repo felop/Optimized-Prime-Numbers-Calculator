@@ -1,7 +1,7 @@
 # 📟 Primes Calculator
 A python3 script how calculates prime numbers super quickly
 * Super optimized
-* Tested on OSX and Linux with Python 3
+* Tested on OSX/macOS and Linux with Python 3
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ A python3 script how calculates prime numbers super quickly
 Python3 or newer.
 
 ### 🛠 Installation
-#### OSX and Linux
+#### OSX/macOS and Linux
 ```
 git clone https://github.com/JeSuisRusse/RusseIP.git
 cd RusseIP
