@@ -4,7 +4,7 @@ A python3 script how calculates prime numbers super quickly
 
 ## Getting Started
 
-### Prerequisites
+### 🛠 Prerequisites
 
 Python3 or newer.
 
