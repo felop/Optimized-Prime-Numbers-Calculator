@@ -11,8 +11,7 @@ Python3 or newer.
 
 ### 🛠 Installation : OSX/macOS and Linux
 ```
-git clone https://github.com/JeSuisRusse/RusseIP.git
-cd RusseIP
-pip3 install -r requirements.txt
-python3 RusseIP.py
+git clone https://github.com/felop/Optimized-Prime-Numbers-Calculator.git
+cd Optimized-Prime-Numbers-Calculator
+python3 calculator.py
 ```
