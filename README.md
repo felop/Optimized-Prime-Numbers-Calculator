@@ -2,7 +2,7 @@
 A python3 script how calculates prime numbers super quickly
 * Super optimized
 * Tested on OSX/macOS and Linux with Python 3
-* it finds (of course, this depends on the processing speed of the computer)
+* it finds (of course, this depends on the processing speed of the computer) \n
     5000 primes in 1.92 seconds
    10000 primes in 11.7 seconds 
 
