@@ -7,15 +7,15 @@ A python3 script how calculates prime numbers super quickly
 
 Python3 or newer.
 
-## 🛠 Installation
-### Linux
+### 🛠 Installation
+#### Linux
 ```
 git clone https://github.com/JeSuisRusse/RusseIP.git
 cd RusseIP
 pip3 install -r requirements.txt
 python3 RusseIP.py
 ```
-### Windows
+#### Windows
 ```
 Download RusseIP.zip
 Extract RusseIP.zip
