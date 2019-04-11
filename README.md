@@ -9,8 +9,7 @@ A python3 script how calculates prime numbers super quickly
 
 Python3 or newer.
 
-### 🛠 Installation
-#### OSX/macOS and Linux
+### 🛠 Installation : OSX/macOS and Linux
 ```
 git clone https://github.com/JeSuisRusse/RusseIP.git
 cd RusseIP
