@@ -13,7 +13,7 @@ Python3 or newer.
 
 ### 🛠 Installation : OSX/macOS and Linux
 ```
-git clone https://github.com/felop/Optimized-Prime-Numbers-Calculator.git
+git clone https://github.com/felop/Optimized-Prime-Numbers-Calculator
 cd Optimized-Prime-Numbers-Calculator
 python3 calculator.py
 ```
