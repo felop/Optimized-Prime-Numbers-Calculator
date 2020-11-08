@@ -1,7 +1,6 @@
 # 📟 Prime Numbers Calculator
-A python3 script who calculates prime numbers super quickly
-* Super optimized
-* Tested on OSX/macOS and Linux with Python 3
+A python3 script which calculates prime numbers
+* Tested on macOS and Linux with Python 3
 * 5000 primes in 1.92 seconds
 * 10000 primes in 11.7 seconds (of course, this depends on the processing speed of the computer)
 
